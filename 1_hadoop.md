@@ -1,4 +1,4 @@
-# 💽하둡 : Hadoop [🔙](../hadoop)
+# 💽하둡 : Hadoop [🔙](../../)
 
 ## contents📝<a id="contents"></a>
 
