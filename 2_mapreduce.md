@@ -18,5 +18,5 @@
 
 다음은 NCDC 데이터셋을 통해 매년 기록된 최고 지구 기온에 대한 맵리듀스 과정을 나타낸 그림입니다.
 
-<img src="2_mapreduce.assets/image-20230216114359938.png" alt="image-20230216114359938" style="zoom: 50%;" />
+![NCDC의 맵리듀스 과정](2_mapreduce.assets/image-20230216114359938.png){: width="50%" height=50%""}
 
